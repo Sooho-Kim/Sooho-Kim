@@ -1,4 +1,10 @@
-### Hi there,  👋
+### 👋 Sooho Kim
+
+Hi there.
+<!-- 
+### Interesting
+* Computer Vision
+* MLOps -->
 <!--[![Sooho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooho-kim)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=left>
