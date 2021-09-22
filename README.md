@@ -1,10 +1,11 @@
 ### 👋 Sooho Kim
+#### Hi there. My name is Sooho Kim. I'm interested in AI and Data Analysis.
 
-Hi there.
-<!-- 
-### Interesting
+
+### ❤ Interests
 * Computer Vision
-* MLOps -->
+* MLOps
+* Data Analysis
 <!--[![Sooho's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooho-kim)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=left>
@@ -14,14 +15,20 @@ Hi there.
 </div>
 -->
 
-<div align=left>
+### 🏃‍♂️ History
+
+| Type | Date | Contents | Organization |
+| ---- | ---- | -------- | ------------ |
+| Training | 2021. 01 ~ 2021. 06 | Boostcamp AI Tech | Naver connect |
+| Work Experience | 2020. 10 ~ 2021. 01 | Data labeler, Content Curation Center | KISTI |
+| Training | 2020. 03 ~ 2020. 09 | BigData Analysist Training Course | KISTI |
+| Military Service | 2016. 03 ~ 2018. 06 | platoon leader | Republic of Korea Army |
+| Education | 2012. 03 ~ 2016. 02 | majored in Mathematics | Chungnam national University |
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sooho.kim.dev@gmail.com)](mailto:sooho.kim.dev@gmail.com)
-  
-</div>
+<!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sooho.kim.dev@gmail.com)](mailto:sooho.kim.dev@gmail.com)
+-->
 <!--
 **Sooho-Kim/Sooho-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -33,3 +40,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🎉 Awards
+
+| Type | Date | Contents | Rank | Organization |
+| ---- | ---- | -------- | ---- | ------------ |
+| Competition | 2020. 11 ~ 2020. 12 | DreamAI Competition :Mobilty | 1st Prize | Gwangju |
+| Project | 2020. 08 ~ 2020. 09 | BigData Analysist Training Course - Team Project | 1st Prize | KISTI |
