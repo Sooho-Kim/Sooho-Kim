@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 ### 🎉 Awards
 
 | Type | Date | Contents | Rank | Organization |
-| ---- | ---- | -------- | ---- | ------------ |
+|:----:|:----:|:--------:|:----:|:------------:|
 | Competition | 2020. 11 ~ 2020. 12 | DreamAI Competition :Mobilty | 1st Prize | Gwangju |
 | Project | 2020. 08 ~ 2020. 09 | BigData Analysist Training Course - Team Project | 1st Prize | KISTI |
