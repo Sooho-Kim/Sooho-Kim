@@ -22,7 +22,7 @@
 | Training | 2021. 01 ~ 2021. 06 | Boostcamp AI Tech | NAVER CONNECT |
 | Work Experience | 2020. 10 ~ 2021. 01 | Data labeler, Content Curation Center | KISTI |
 | Training | 2020. 03 ~ 2020. 09 | BigData Analysist Training Course | KISTI |
-| Military Service | 2016. 03 ~ 2018. 06 | Platoon leader | Republic of Korea Army |
+| Military Service | 2016. 03 ~ 2018. 06 | Communications Platoon leader | Republic of Korea Army |
 | Education | 2012. 03 ~ 2016. 02 | majored in Mathematics | Chungnam National University |
   
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sooho.kim.dev@gmail.com)](mailto:sooho.kim.dev@gmail.com)
