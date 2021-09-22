@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -->
 ### 🎉 Awards
 
-| Type | Date | Title | Contents | Host |
-|:----:|:----:|:-----:|:--------:|:----:|
-| Competition | 2020. 11 ~ 2020. 12 | DreamAI Competition :Mobilty | 1st Prize | Gwangju |
-| Project | 2020. 08 ~ 2020. 09 | BigData Analysist Training Course - Team Project | 1st Prize | KISTI |
+| Type | Date | Title | Contents | Rank | Host |
+|:----:|:----:|:-----:|:--------:|:----:|:----:|
+| Competition | 2020. 11 ~ 2020. 12 | DreamAI Competition :Mobilty | Development object classifier using drone camera | 1st Prize | Gwangju |
+| Project | 2020. 08 ~ 2020. 09 | BigData Analysist Training Course - Team Project | Development CAN classifier for visually impaired | 1st Prize | KISTI |
